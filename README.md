@@ -349,3 +349,4 @@ approach:
 
 - [Python Property Decorator](https://www.programiz.com/python-programming/property)
 - [Introduction to the Python Property Decorator](https://www.pythontutorial.net/python-oop/python-property-decorator/)
+# python-p3-v2-property-decorator
